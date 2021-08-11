@@ -1,0 +1,8 @@
+# TOML v1.0
+# template module config
+
+# module middlewares
+[middlewares]
+# add middlewares config here...
+'@zppack/zp-vars' = 'latest'
+'@zppack/zp-pick' = 'latest'
